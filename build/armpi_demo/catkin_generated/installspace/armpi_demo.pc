@@ -1,0 +1,8 @@
+prefix=/home/rosnoetic/armpi/install
+
+Name: armpi_demo
+Description: Description of armpi_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy moveit_commander std_msgs trajectory_msgs

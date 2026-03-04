@@ -1,0 +1,14 @@
+<launch>
+    <!-- 启动 USB 摄像头 -->
+    <include file="$(find usb_cam)/launch/usb_cam.launch"/>
+
+    <!-- 启动 aruco_ros 单 Marker 检测 -->
+    <include file="$(find aruco_ros)/launch/single.launch"/>
+
+    <!-- 打开 rqt_image_view 可视化相机画面 -->
+    <node pkg="rqt_image_view" type="rqt_image_view" name="image_view" args="/aruco_single/result"/>
+    
+    <!-- 启动 armpi 机械臂驱动 -->
+    <include file="$(find armpi_gripper_moveit_config)/launch/armpi.launch"/>
+</launch>
+

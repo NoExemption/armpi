@@ -1,0 +1,2 @@
+armpi_demo:armpi_fpv:armpi_gripper_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/rosnoetic/armpi/devel -DCMAKE_INSTALL_PREFIX=/home/rosnoetic/armpi/install -G Unix Makefiles

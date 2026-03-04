@@ -1,0 +1,10 @@
+frame_id: base_link
+position:
+  x: -0.0109
+  y: 0.1134
+  z: 0.168
+orientation:
+  x: -0.9524
+  y: -0.0319
+  z: 0.019
+  w: 0.3025

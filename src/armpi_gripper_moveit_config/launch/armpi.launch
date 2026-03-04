@@ -1,0 +1,23 @@
+<launch>
+  <!-- 启动 MoveIt 的 demo.launch -->
+  <include file="$(find armpi_gripper_moveit_config)/launch/demo.launch" />
+
+  <!-- 启动真实机械臂的 action server -->
+  <node name="farsight_moveit_action_server"
+        pkg="armpi_gripper_moveit_config"
+        type="farsight_moveit_action_server.py"
+        output="screen" />
+
+  <!-- 启动关节状态发布节点 -->
+  <node name="joint_state_publisher_real"
+        pkg="armpi_gripper_moveit_config"
+        type="joint_state.py"
+        output="screen" />
+        
+  <!-- 启动关节滑条 GUI -->
+  <!-- <node name="joint_state_publisher_gui"
+        pkg="joint_state_publisher_gui"
+        type="joint_state_publisher_gui"
+        output="screen" /> -->
+
+</launch> 

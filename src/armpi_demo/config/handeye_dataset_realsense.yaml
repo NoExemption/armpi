@@ -1,0 +1,502 @@
+gripper_poses:
+- frame_id: base_link
+  position:
+    x: -5.0e-06
+    y: 9.0e-05
+    z: 0.310462
+  orientation:
+    x: 0.014077
+    y: 0.000589
+    z: 0.012538
+    w: 0.999822
+- frame_id: base_link
+  position:
+    x: 0.010396
+    y: 0.015832
+    z: 0.237046
+  orientation:
+    x: -0.226926
+    y: 0.073044
+    z: -0.258676
+    w: 0.936085
+- frame_id: base_link
+  position:
+    x: -0.00182
+    y: 0.003131
+    z: 0.231356
+  orientation:
+    x: 0.081833
+    y: 0.0254
+    z: 0.222985
+    w: 0.971049
+- frame_id: base_link
+  position:
+    x: -0.00328
+    y: 0.001977
+    z: 0.231392
+  orientation:
+    x: 0.071196
+    y: 0.043823
+    z: 0.457084
+    w: 0.885486
+- frame_id: base_link
+  position:
+    x: -0.003226
+    y: 0.001645
+    z: 0.231356
+  orientation:
+    x: 0.071328
+    y: 0.047479
+    z: 0.488163
+    w: 0.868536
+- frame_id: base_link
+  position:
+    x: 0.002606
+    y: 0.002807
+    z: 0.231392
+  orientation:
+    x: 0.078914
+    y: -0.027603
+    z: -0.398794
+    w: 0.913222
+- frame_id: base_link
+  position:
+    x: 0.023154
+    y: 0.027365
+    z: 0.298878
+  orientation:
+    x: 0.182073
+    y: -0.059026
+    z: -0.372015
+    w: 0.908279
+- frame_id: base_link
+  position:
+    x: 0.014432
+    y: 0.035236
+    z: 0.186224
+  orientation:
+    x: 0.2183
+    y: -0.034502
+    z: -0.224229
+    w: 0.949145
+- frame_id: base_link
+  position:
+    x: -0.030128
+    y: -0.039121
+    z: 0.241116
+  orientation:
+    x: 0.098071
+    y: -0.02932
+    z: -0.355771
+    w: 0.928951
+- frame_id: base_link
+  position:
+    x: -0.001652
+    y: -0.0032
+    z: 0.27574
+  orientation:
+    x: 0.01267
+    y: -0.003444
+    z: -0.209508
+    w: 0.977719
+- frame_id: base_link
+  position:
+    x: 0.04231
+    y: 0.083675
+    z: 0.256081
+  orientation:
+    x: 0.175454
+    y: -0.046909
+    z: -0.20202
+    w: 0.962395
+- frame_id: base_link
+  position:
+    x: 0.066733
+    y: 0.099801
+    z: 0.229227
+  orientation:
+    x: 0.297621
+    y: -0.099243
+    z: -0.250994
+    w: 0.915737
+- frame_id: base_link
+  position:
+    x: 0.028774
+    y: 0.081712
+    z: 0.272221
+  orientation:
+    x: -0.316441
+    y: 0.189349
+    z: 0.185251
+    w: 0.910876
+- frame_id: base_link
+  position:
+    x: -0.006005
+    y: 0.084359
+    z: 0.251116
+  orientation:
+    x: -0.413798
+    y: -0.241768
+    z: -0.387842
+    w: 0.787336
+- frame_id: base_link
+  position:
+    x: -0.014586
+    y: -0.024147
+    z: 0.282504
+  orientation:
+    x: -0.344936
+    y: 0.089139
+    z: -0.267646
+    w: 0.895231
+- frame_id: base_link
+  position:
+    x: -0.003123
+    y: -0.027552
+    z: 0.241017
+  orientation:
+    x: 0.374366
+    y: 0.111072
+    z: -0.359585
+    w: 0.847474
+- frame_id: base_link
+  position:
+    x: 0.031168
+    y: 0.086203
+    z: 0.232127
+  orientation:
+    x: -0.167696
+    y: -0.014758
+    z: -0.415146
+    w: 0.894044
+- frame_id: base_link
+  position:
+    x: -0.052786
+    y: 0.089058
+    z: 0.242292
+  orientation:
+    x: -0.477957
+    y: -0.279254
+    z: 0.005222
+    w: 0.832795
+- frame_id: base_link
+  position:
+    x: 0.052333
+    y: 0.047687
+    z: 0.217894
+  orientation:
+    x: -0.201272
+    y: 0.210933
+    z: -0.021989
+    w: 0.956302
+- frame_id: base_link
+  position:
+    x: 0.137214
+    y: 0.096633
+    z: 0.166248
+  orientation:
+    x: -0.22225
+    y: 0.677928
+    z: 0.204922
+    w: 0.670094
+- frame_id: base_link
+  position:
+    x: -0.08952
+    y: 0.063606
+    z: 0.257426
+  orientation:
+    x: -0.155241
+    y: -0.454208
+    z: -0.249528
+    w: 0.84103
+- frame_id: base_link
+  position:
+    x: -0.122922
+    y: -0.045733
+    z: 0.081505
+  orientation:
+    x: 0.156105
+    y: -0.982084
+    z: 0.02082
+    w: 0.10348
+- frame_id: base_link
+  position:
+    x: 0.079328
+    y: -0.0121
+    z: 0.143171
+  orientation:
+    x: 0.235911
+    y: 0.925471
+    z: 0.029068
+    w: 0.294967
+- frame_id: base_link
+  position:
+    x: 0.1041
+    y: 0.090949
+    z: 0.208506
+  orientation:
+    x: -0.305984
+    y: 0.629179
+    z: 0.18743
+    w: 0.689476
+- frame_id: base_link
+  position:
+    x: -0.056786
+    y: 0.005905
+    z: 0.250705
+  orientation:
+    x: 0.084404
+    y: 0.537126
+    z: 0.043832
+    w: 0.838123
+marker_poses:
+- frame_id: camera_link
+  position:
+    x: 0.012648
+    y: -0.13537
+    z: 0.575119
+  orientation:
+    x: 0.9969
+    y: -0.060885
+    z: 0.010542
+    w: 0.048703
+- frame_id: camera_link
+  position:
+    x: 0.000858
+    y: -0.042528
+    z: 0.591009
+  orientation:
+    x: 0.954737
+    y: -0.107351
+    z: -0.268233
+    w: -0.070736
+- frame_id: camera_link
+  position:
+    x: 0.011936
+    y: -0.060041
+    z: 0.631087
+  orientation:
+    x: 0.935832
+    y: -0.105213
+    z: 0.217526
+    w: 0.256574
+- frame_id: camera_link
+  position:
+    x: 0.011526
+    y: -0.060517
+    z: 0.623787
+  orientation:
+    x: 0.844531
+    y: -0.13895
+    z: 0.461728
+    w: 0.232954
+- frame_id: camera_link
+  position:
+    x: 0.01167
+    y: -0.060562
+    z: 0.621565
+  orientation:
+    x: 0.827911
+    y: -0.14714
+    z: 0.490542
+    w: 0.228651
+- frame_id: camera_link
+  position:
+    x: 0.023512
+    y: -0.059749
+    z: 0.638567
+  orientation:
+    x: 0.885817
+    y: 0.002836
+    z: -0.39465
+    w: 0.244073
+- frame_id: camera_link
+  position:
+    x: -0.052639
+    y: -0.125666
+    z: 0.561237
+  orientation:
+    x: 0.91421
+    y: -0.038542
+    z: -0.367326
+    w: 0.166755
+- frame_id: camera_link
+  position:
+    x: 7.0e-05
+    y: -0.026458
+    z: 0.583783
+  orientation:
+    x: 0.921997
+    y: -0.01799
+    z: -0.221514
+    w: 0.317065
+- frame_id: camera_link
+  position:
+    x: 0.004071
+    y: -0.065075
+    z: 0.618956
+  orientation:
+    x: 0.93219
+    y: -0.058491
+    z: -0.34247
+    w: 0.101564
+- frame_id: camera_link
+  position:
+    x: -0.022797
+    y: -0.088352
+    z: 0.548893
+  orientation:
+    x: 0.976854
+    y: -0.08842
+    z: -0.194572
+    w: -0.00895
+- frame_id: camera_link
+  position:
+    x: -0.051457
+    y: -0.078881
+    z: 0.486926
+  orientation:
+    x: 0.964951
+    y: -0.041953
+    z: -0.200616
+    w: 0.163898
+- frame_id: camera_link
+  position:
+    x: -0.090096
+    y: -0.02224
+    z: 0.455621
+  orientation:
+    x: 0.943534
+    y: -0.027332
+    z: -0.263457
+    w: 0.198964
+- frame_id: camera_link
+  position:
+    x: -0.000591
+    y: -0.064562
+    z: 0.48909
+  orientation:
+    x: 0.918297
+    y: -0.236266
+    z: 0.216747
+    w: -0.232226
+- frame_id: camera_link
+  position:
+    x: -0.008111
+    y: -0.045007
+    z: 0.490481
+  orientation:
+    x: 0.828565
+    y: 0.168416
+    z: -0.391461
+    w: -0.363144
+- frame_id: camera_link
+  position:
+    x: 0.016788
+    y: -0.064304
+    z: 0.624836
+  orientation:
+    x: 0.92972
+    y: -0.129715
+    z: -0.271803
+    w: -0.21194
+- frame_id: camera_link
+  position:
+    x: -0.01782
+    y: -0.065808
+    z: 0.617998
+  orientation:
+    x: 0.863434
+    y: -0.163893
+    z: -0.353394
+    w: 0.320522
+- frame_id: camera_link
+  position:
+    x: -0.048881
+    y: -0.045871
+    z: 0.497224
+  orientation:
+    x: 0.903123
+    y: -0.058235
+    z: -0.408752
+    w: -0.117893
+- frame_id: camera_link
+  position:
+    x: 0.086948
+    y: -0.01636
+    z: 0.483135
+  orientation:
+    x: 0.874697
+    y: 0.231571
+    z: -0.008439
+    w: -0.425687
+- frame_id: camera_link
+  position:
+    x: -0.037406
+    y: -0.023401
+    z: 0.521822
+  orientation:
+    x: 0.962837
+    y: -0.23571
+    z: -0.037503
+    w: -0.126411
+- frame_id: camera_link
+  position:
+    x: -0.123999
+    y: 0.081977
+    z: 0.434379
+  orientation:
+    x: -0.616002
+    y: 0.731912
+    z: -0.202426
+    w: 0.209452
+- frame_id: camera_link
+  position:
+    x: 0.173524
+    y: -0.029626
+    z: 0.451805
+  orientation:
+    x: 0.799738
+    y: 0.531615
+    z: -0.243562
+    w: -0.135953
+- frame_id: camera_link
+  position:
+    x: -0.069729
+    y: 0.037125
+    z: 0.519714
+  orientation:
+    x: 0.857538
+    y: -0.465688
+    z: 0.218455
+    w: -0.006351
+- frame_id: camera_link
+  position:
+    x: -0.082273
+    y: 0.115644
+    z: 0.57495
+  orientation:
+    x: -0.256064
+    y: 0.928949
+    z: -0.07701
+    w: -0.256038
+- frame_id: camera_link
+  position:
+    x: -0.085695
+    y: 0.036997
+    z: 0.448931
+  orientation:
+    x: -0.643209
+    y: 0.677223
+    z: -0.207193
+    w: 0.29107
+- frame_id: camera_link
+  position:
+    x: 0.07937
+    y: -0.045479
+    z: 0.56564
+  orientation:
+    x: 0.845857
+    y: -0.515613
+    z: 0.085709
+    w: 0.106413
